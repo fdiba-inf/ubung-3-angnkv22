@@ -27,7 +27,7 @@ public class Triangle {
           System.out.println("Triangle: scalene");
         }
       } else {
-        System.out.println("Werte nicht korrekt eingegeben!");
+        System.out.println("Values are not correct!");
       }
       a = input.nextDouble();
       b = input.nextDouble();
